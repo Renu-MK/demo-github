@@ -6,3 +6,6 @@ This is my First GitHub repository!
 
 Tried to make changes via vs code!
 
+## Git Branching
+
+Tried feature branch!
