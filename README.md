@@ -8,4 +8,4 @@ Tried to make changes via vs code!
 
 ## Git Branching
 
-Tried feature branch!
+Tried feature Git branch!
